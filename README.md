@@ -1,4 +1,4 @@
-Will decrypt only if no screen lock/password/pin is set
+Will decrypt only if no screen lock/password/pin is set \
 Read up on what Strongbox is and does.
 
 
