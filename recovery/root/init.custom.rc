@@ -1,0 +1,9 @@
+import /vendor/etc/init/android.hardware.boot@1.2-service.rc
+import /vendor/et/cinit/android.hardware.gatekeeper@1.0-service.rc
+import /vendor/etc/init/microtrust.bp_kmsetkey_ca.rc
+
+
+on init
+#Added Manual For Trustonic
+mkdir /mnt/vendor/persist
+mount ext4 /dev/block/by-name/persist /mnt/vendor/persist rw
