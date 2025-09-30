@@ -1,5 +1,5 @@
 
-# Android device tree for Lenovo P11 Gen2 [TB350FU]
+# Android recovery device tree for Lenovo P11 Gen2 [TB350FU]
 
 
 What works?
@@ -22,7 +22,7 @@ What works?
 * I am not responsible for loss of data or broken devices. \
   Use your best judgment and always read before you do.
 
-# Android device tree for Lenovo TB350FU (TB350FU)
+# Android recovery device tree for Lenovo TB350FU [TB350FU]
 
 ```
 #
