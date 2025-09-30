@@ -194,6 +194,11 @@ TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 TW_HAS_MTP := true
 TW_SKIP_ADDITIONAL_FSTAB := true
 
+# TWRP RTC
+TW_TIME_ZONE_VAR := Europe/Stockholm
+TW_MILITARY_TIME := true
+TW_TIME_ZONE_GUISEL := true
+
 # TWRP Configuration
 TW_THEME := portrait_hdpi
 TW_EXTRA_LANGUAGES := false
@@ -208,6 +213,7 @@ TW_INCLUDE_REPACKTOOLS := true
 TW_NO_SCREEN_TIMEOUT := true
 TW_NO_FLASH_CURRENT_TWRP := true
 TW_USE_LEGACY_BATTERY_SERVICES := true
+TW_CUSTOM_CPU_TEMP_PATH := /sys/class/thermal/thermal_zone5/temp
 
 # TWRP additional
 TW_INCLUDE_LIBRESETPROP := true
