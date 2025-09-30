@@ -1,7 +1,6 @@
 
 # Android recovery device tree for Lenovo P11 Gen2 [TB350FU]
 
-
 What works?
 - [x] Backup/restore
 - [x] Flashing zip/img files
@@ -15,14 +14,11 @@ What works?
 - [ ] Haptics, same as above. 
 - [ ] Flashing GSI. Untested as this was never my intention
 
-
 * *Will decrypt only if no screen lock/password/pin is set \
    Read up on what Strongbox is and does.
 
 * I am not responsible for loss of data or broken devices. \
   Use your best judgment and always read before you do.
-
-# Android recovery device tree for Lenovo TB350FU [TB350FU]
 
 ```
 #
