@@ -11,6 +11,8 @@ What works?
 - [x] Decrypting*
 - [ ] Fastboot is iffy. Use bootloader as fastboot instead
 - [ ] CPU temp
+- [ ] Flashlight, no, this is not the environment for it
+- [ ] Haptics, same as above. 
 - [ ] Flashing GSI. Untested as this was never my intention
 
 
