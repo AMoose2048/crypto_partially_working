@@ -8,17 +8,17 @@ What works?
 - [x] MTP
 - [x] OTG 
 - [x] Decrypting*
-- [ ] Fastboot is iffy. Use bootloader as fastboot instead
-- [ ] CPU temp
-- [ ] Flashlight, no, this is not the environment for it
-- [ ] Haptics, same as above. 
+- [X] Fastboot
 - [ ] Flashing GSI. Untested as this was never my intention
+- [ ] Thermals, flashlight, haptics. These are NOT needed. \
+      This is not the OS.
+
 
 * *Will decrypt only if no screen lock/password/pin is set \
    Read up on what Strongbox is and does.
 
 * I am not responsible for loss of data or broken devices. \
-  Use your best judgment and always read before you do.
+  Use your best judgment and always read before clicking/tapping/swiping.
 
 ```
 #
